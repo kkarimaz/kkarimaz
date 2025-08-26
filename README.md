@@ -1,4 +1,10 @@
 ## Hi there 👋
+I'm Khansa, an undergraduate student of Electronics and Instrumentation of Universitas Gadjah Mada.
+
+- 🔭 I’m currently working on aerial robotics specializing in autonomous copter, computer vision and high level control.
+- 🌱 I’m currently learning artificial intelligence, deep learning and software engineering.
+- 📫 How to reach me: DM me on instagram @kkarima_z
+- ⚡ Fun fact: There's a lot of thing i have yet to learn but I'm always lookin forward and trying my best!
 
 <!--
 **kkarimaz/kkarimaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kkarimaz)](https://git.io/streak-stats)
