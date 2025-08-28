@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Khansa, an undergraduate student of Electronics and Instrumentation of Universitas Gadjah Mada.
+I'm Khansa, an undergraduate student of Electronics and Instrumentation from Universitas Gadjah Mada.
 
 - 🔭 I’m currently working on aerial robotics specializing in autonomous copter, computer vision and high level control.
 - 🌱 I’m currently learning artificial intelligence, deep learning and software engineering.
